@@ -7,13 +7,13 @@ learning, and building the ideas from class in code.
 
 Projects here, newest first:
 
-- **[Transformer](https://github.com/Davidndes/Transformer)** — character-level
+- **[Decoder-Only-Transformer](https://github.com/Davidndes/Transformer)** — character-level
   decoder-only transformer from scratch in PyTorch, extended with KV caching.
 
-- **[Orderbook](https://github.com/Davidndes/Orderbook)** — limit order book in C++
+- **[OrderBook](https://github.com/Davidndes/Orderbook)** — limit order book in C++
   with price-time priority and partial fills.
 
-- **[NYCTaxiFarePredictor](https://github.com/Davidndes/NYCTaxiFarePredictor)** —
+- **[NYC-Taxi-Fare-Predictor](https://github.com/Davidndes/NYCTaxiFarePredictor)** —
   end to end in SQL, pandas and PyTorch, with the forward pass rewritten in C++ to
   check against it.
   
