@@ -1,4 +1,3 @@
-README
 ## David Deslandes
 
 My path has taken me from chemical engineering to corporate derivatives at Goldman
